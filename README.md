@@ -1,6 +1,6 @@
 # Digital Kaleidoscope
 
-## Video Demo: https://youtu.be/btHL5g2rdYg
+https://youtu.be/btHL5g2rdYg
 
 ### Description:
 
