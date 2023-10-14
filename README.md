@@ -1,6 +1,6 @@
 # Digital Kaleidoscope
 
-https://youtu.be/btHL5g2rdYg
+[![Digital Kaleidoscope Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FbtHL5g2rdYg)](https://youtu.be/btHL5g2rdYg)
 
 ### Description:
 
