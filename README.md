@@ -32,6 +32,6 @@ Scaling cursor speed, color modulation, and adding new controller mappings were 
 
 Digital Kaleidoscope is not just a technical experiment but a visually engaging and playful project that combines music, art, and mathematics. While it may have pushed the boundaries of the LOVE2D framework and Lua, it has been a rewarding journey.
 
-For further details, check out the [Extended Project Description](ExtendedProjectDescription.md)!
+For further details, check out the [Extended Project Description](ExtendedProjDescription.md)!
 
 For any inquiries or collaboration opportunities, feel free to contact me.
